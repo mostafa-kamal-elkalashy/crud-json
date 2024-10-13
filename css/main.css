@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+h1{
+    font-size: 60px;
+    text-align: center;
+    padding:50px 0;
+}
+.card-body{
+    display: flex;
+    justify-content: center;
+    width: 60%;
+    margin: auto;
+    background-color: rgb(37, 22, 22);
+}
+.row{
+    display: flex;
+    margin: auto;
+}
+.card-contant{
+    width: 100%;
+    background-color: rgb(80, 60, 60);
+    padding: 10px;
+}
+input{
+    width: 100%;
+    height: 35px;
+}
+select{
+    width: 100%;
+    height: 35px;
+}
+.products-body{
+    display: flex;
+    justify-content: center;
+    width: 80%;
+    margin: auto;
+    background-color: rgb(37, 22, 22);
+    padding: 10px;
+}
+.products-contant{
+    width: 100%;
+    background-color: rgb(80, 60, 60);
+    padding: 10px;
+}
+.table{
+    width: 100%;
+    background-color: white;
+}
